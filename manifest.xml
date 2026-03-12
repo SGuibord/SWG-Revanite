@@ -2,6 +2,7 @@
 <ManifestFile>
     <Files>
         <!-- DLLs -->
+        
         <File path="dpvs.dll" update="false" checksum="fd25c516087edba23f1f403a65769240" url="https://drive.google.com/uc?export=download&confirm=t&id=1_FaEMi76iAk-kzVDfe1AJPF9TtCHPVii"/>
         <File path="em05_u.dll" update="false" checksum="eb9bcae9c82ccbb29f0a8c83d26891a8" url="https://drive.google.com/uc?export=download&confirm=t&id=1HSoX-2wvZQtGnb-ac3yUtgBcQFV6aJP6"/>
         <File path="em06_u.dll" update="false" checksum="216200d43550b79f6895baeeea3f3138" url="https://drive.google.com/uc?export=download&confirm=t&id=14ijUImeEb4V5Is176OdDwz348XztsRgw"/>
@@ -14,6 +15,7 @@
         <File path="dbghelp.dll" update="false" checksum="21e77bcbe81c83284aeea5127c197718" url="https://drive.google.com/uc?export=download&confirm=t&id=1ALuDSR3e3mPHObRsgD1hJ4IubwZPUDev"/>
 
         <!-- MTG Patches -->
+        
         <File path="mtg_patch_001_appearance_01.tre" update="false" checksum="9d3542a7a50e55aa2a0202af944933b7" url="https://drive.google.com/uc?export=download&confirm=t&id=1Vxv5Qk8q64MzWjfMKxtnh36JF7FWuE6w"/>
         <File path="mtg_patch_002_appearance_02.tre" update="false" checksum="3b38b9e73ec985a1ab6569adf6b1e5b4" url="https://drive.google.com/uc?export=download&confirm=t&id=1qz9zc-WJKmjDJfaG9orp4dy1vfe32Ulj"/>
         <File path="mtg_patch_003_appearance_03.tre" update="false" checksum="03ab7e158ff6d815786e1f9d0b027f35" url="https://drive.google.com/uc?export=download&confirm=t&id=1Q1Lj3CX4UjghotCSWU0dOMy5T50bYkOo"/>
@@ -40,19 +42,23 @@
         <File path="mtg_planets.tre" update="false" checksum="REPLACE_WITH_ACTUAL_CHECKSUM" url="https://drive.google.com/uc?export=download&confirm=t&id=1mt4seG3WuXiI1iYOqr-Ad0qOJZNkcVJq"/>
 
         <!-- SWGEmu.exe and Setup -->
+        
         <File path="SWGEmu.exe" update="false" checksum="REPLACE_WITH_ACTUAL_CHECKSUM" url="https://drive.google.com/uc?export=download&confirm=t&id=1GOuyWeYPkSuRDEV8cXfv2u8KoBe3ipkM"/>
         <File path="SWGEmu_Setup.exe" update="false" checksum="REPLACE_WITH_ACTUAL_CHECKSUM" url="https://drive.google.com/uc?export=download&confirm=t&id=1TTvyN6cN-YIZHG3PXHEUjDgmZz5F6n8Y"/>
 
         <!-- Config files -->
+        
         <File path="swgemu.cfg" update="false" checksum="REPLACE_WITH_ACTUAL_CHECKSUM" url="https://drive.google.com/uc?export=download&confirm=t&id=1w4XgubNUFS1gf-UnQ_XUzz7_nXr00sMp"/>
 
         <!-- Miles files -->
+        
         <File path="miles/mssdsp.flt" update="false" checksum="b88bf9c506cd612fc37b47ad2e1c84b6" url="https://drive.google.com/uc?export=download&confirm=t&id=1YiHj2UiYRTylZWjlYwmAMJQ3c3ahLguO"/>
         <File path="miles/Msseax.m3d" update="false" checksum="b24028b6511fa3cb96bcbf1ef2838696" url="https://drive.google.com/uc?export=download&confirm=t&id=1TqIY6sAAlAs-1bt6Un7Vg-iRQ5xOuqpB"/>
         <File path="miles/mssmp3.asi" update="false" checksum="43bfc9015cf90c161567fb0c0acaf714" url="https://drive.google.com/uc?export=download&confirm=t&id=1Y_B3QZU6U0MXxYflh0Z0URqjttbzqMMl"/>
         <File path="miles/msssoft.m3d" update="false" checksum="3e9029826d8cb962874584ab795a9d31" url="https://drive.google.com/uc?export=download&confirm=t&id=1mt4seG3WuXiI1iYOqr-Ad0qOJZNkcVJq"/>
 
         <!-- Custom mods -->
+        
         <File path="Mod_Project_Borfection.tre" update="true" checksum="276d8c254417e1de1178e3f693a8720f" url="https://drive.google.com/uc?export=download&confirm=t&id=YOUR_BORFECTION_ID"/>
         <File path="Mod_NGE_Species.tre" update="true" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://drive.google.com/uc?export=download&confirm=t&id=YOUR_NGE_SPECIES_ID"/>
         <File path="Mod_Smooth_Movement.tre" update="true" checksum="5d4c3bc520cd38dccf29d274684f372c" url="https://drive.google.com/uc?export=download&confirm=t&id=YOUR_SMOOTH_MOVEMENT_ID"/>
@@ -93,3 +99,4 @@
         <ServerName>Revanite</ServerName>
     </ServerInfo>
 </ManifestFile>
+
