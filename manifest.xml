@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Files>
     <!-- MTG Patches -->
     <File path="mtg_patch_001_appearance_01.tre" update="false" checksum="9d3542a7a50e55aa2a0202af944933b7" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_patch_001_appearance_01.tre"/>
@@ -61,4 +62,6 @@
         <LoginServer>10.212.229.178:44453</LoginServer>
         <ServerName>Revanite</ServerName>
     </ServerInfo>
+</Files>
+
 </Files>
