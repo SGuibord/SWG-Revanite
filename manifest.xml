@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Files>
-    <!-- MTG Patches -->
     <File path="mtg_patch_001_appearance_01.tre" update="false" checksum="9d3542a7a50e55aa2a0202af944933b7" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_patch_001_appearance_01.tre"/>
     <File path="mtg_patch_002_appearance_02.tre" update="false" checksum="3b38b9e73ec985a1ab6569adf6b1e5b4" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_patch_002_appearance_02.tre"/>
     <File path="mtg_patch_003_appearance_03.tre" update="false" checksum="03ab7e158ff6d815786e1f9d0b027f35" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_patch_003_appearance_03.tre"/>
@@ -24,15 +22,10 @@
     <File path="mtg_patch_022.tre" update="false" checksum="7531403a209c952c4fdbd13a1d3aea69" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_patch_022.tre"/>
     <File path="mtg_patch_023.tre" update="false" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_patch_023.tre"/>
     <File path="mtg_planets.tre" update="false" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/mtg_planets.tre"/>
-    
-    <!-- Core files -->
     <File path="SWGEmu.exe" update="false" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/SWGEmu.exe"/>
     <File path="swgemu_live.cfg" update="false" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/swgemu_live.cfg"/>
-
-    <!-- Custom mod -->
     <File path="species.tre" update="false" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/species.tre"/>
-
-    <TREOrder count="24">
+        <TREOrder count="24">
         <TRE pos="23" file="mtg_patch_023.tre"/>
         <TRE pos="22" file="mtg_patch_022.tre"/>
         <TRE pos="21" file="mtg_planets.tre"/>
