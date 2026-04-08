@@ -27,28 +27,30 @@
 <File path="Species.tre" update="true" checksum="6e407150b3ff6c7e87d3096ed5184a5c" url="https://github.com/zanxer13-spec/SWG-Revanite/releases/download/PatchFiles/species.tre"/>
 </Files>
 <TREOrder count="24">
-<TRE pos="49" file="mtg_patch_023.tre"/>
-<TRE pos="48" file="mtg_patch_022.tre"/>
-<TRE pos="47" file="mtg_planets.tre"/>
-<TRE pos="46" file="mtg_patch_019.tre"/>
-<TRE pos="45" file="mtg_patch_018.tre"/>
-<TRE pos="44" file="mtg_patch_017.tre"/>
-<TRE pos="43" file="mtg_patch_016.tre"/>
-<TRE pos="42" file="mtg_patch_015.tre"/>
-<TRE pos="41" file="mtg_patch_014.tre"/>
-<TRE pos="40" file="mtg_patch_013_configurable_02.tre"/>
-<TRE pos="39" file="mtg_patch_012_configurable_01.tre"/>
-<TRE pos="38" file="mtg_patch_011_files_01.tre"/>
-<TRE pos="37" file="mtg_patch_010_object_01.tre"/>
-<TRE pos="36" file="mtg_patch_009_Shader_01.tre"/>
-<TRE pos="35" file="mtg_patch_008_texture_04.tre"/>
-<TRE pos="34" file="mtg_patch_007_texture_03.tre"/>
-<TRE pos="33" file="mtg_patch_006_texture_02.tre"/>
-<TRE pos="32" file="mtg_patch_005_texture_01.tre"/>
-<TRE pos="31" file="mtg_patch_004_appearance_04.tre"/>
-<TRE pos="30" file="mtg_patch_003_appearance_03.tre"/>
-<TRE pos="29" file="mtg_patch_002_appearance_02.tre"/>
-<TRE pos="28" file="mtg_patch_001_appearance_01.tre"/>
+<TRE pos="24" file="Species.tre"/>
+<TRE pos="23" file="mtg_patch_023.tre"/>
+<TRE pos="22" file="mtg_patch_022.tre"/>
+<TRE pos="21" file="mtg_patch_021.tre"/>
+<TRE pos="20" file="mtg_planets.tre"/>
+<TRE pos="19" file="mtg_patch_019.tre"/>
+<TRE pos="18" file="mtg_patch_018.tre"/>
+<TRE pos="17" file="mtg_patch_017.tre"/>
+<TRE pos="16" file="mtg_patch_016.tre"/>
+<TRE pos="15" file="mtg_patch_015.tre"/>
+<TRE pos="14" file="mtg_patch_014.tre"/>
+<TRE pos="13" file="mtg_patch_013_configurable_02.tre"/>
+<TRE pos="12" file="mtg_patch_012_configurable_01.tre"/>
+<TRE pos="11" file="mtg_patch_011_files_01.tre"/>
+<TRE pos="10" file="mtg_patch_010_object_01.tre"/>
+<TRE pos="09" file="mtg_patch_009_Shader_01.tre"/>
+<TRE pos="08" file="mtg_patch_008_texture_04.tre"/>
+<TRE pos="07" file="mtg_patch_007_texture_03.tre"/>
+<TRE pos="06" file="mtg_patch_006_texture_02.tre"/>
+<TRE pos="05" file="mtg_patch_005_texture_01.tre"/>
+<TRE pos="04" file="mtg_patch_004_appearance_04.tre"/>
+<TRE pos="03" file="mtg_patch_003_appearance_03.tre"/>
+<TRE pos="02" file="mtg_patch_002_appearance_02.tre"/>
+<TRE pos="01" file="mtg_patch_001_appearance_01.tre"/>
 </TREOrder>
 <ServerInfo>
 <LoginServer>10.212.229.178:44453</LoginServer>
